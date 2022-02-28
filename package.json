@@ -1,0 +1,20 @@
+{
+  "name": "discord-image-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.4.0",
+    "request": "^2.88.2",
+    "request-progress": "^3.0.0"
+  },
+  "devDependencies": {
+    "pkg": "^5.5.2"
+  }
+}
