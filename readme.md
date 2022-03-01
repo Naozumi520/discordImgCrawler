@@ -1,5 +1,5 @@
 # Introduction
-This is a crawler program written in javascript. It allows you to download all the images from a discord server channel.  
+This is a crawler program written in nodejs. It allows you to download all the images from a discord server channel.  
 Unlike other programs, this program use puppeter to get the url of the image and download it when the client sending a discord request of attachments.  
 Even though it was much safer than selfbot but I still won't be responsible for any problems with using the software (like getting banned due to the discord TOS).  
 ~~But is scrolling the pages against the discord TOS? I don't think so.~~
