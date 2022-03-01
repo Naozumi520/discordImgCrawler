@@ -50,10 +50,12 @@ const main = async () => {
                 return 'finished';
             };
         }, scrollable_section);
+        /*
         if (scrolling === 'finished' && downloaded === target) { //To-do: fix finished is sent but not finished
             clearInterval(interval);
             return console.log('Done: All images has been saved.');
         }
+        */
     }, 500);
 }
 
