@@ -1,5 +1,5 @@
 {
-    "showDownloadDetails": true,
+    "showDownloadDetails": false,
     "serverID": "",
     "channelID": ""
 }
