@@ -5,5 +5,5 @@ Even though it was much safer than selfbot but I still won't be responsible for 
 ~~But is scrolling the pages against the discord TOS? I don't think so.~~
 
 ## How to use
-Type the [serverID and the channelID](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) that you want to scrap for in config.json then start the program. Login with your account manually, sit down and drink a cup of coffee ☕.  
+Paste the [serverID and the channelID](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) that you want to scrap for in config.json then start the program. Login with your account manually, sit down and drink a cup of coffee ☕.  
 The images will be saved to the "spider" folder.
