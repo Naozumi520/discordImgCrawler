@@ -1,4 +1,14 @@
+<h1 align="center">
+  <a href="https://github.com/Naozumi520/discordImgCrawler"><img src="https://user-images.githubusercontent.com/52615455/178230150-307e76cd-4e0b-4e9d-8b2f-9e19476abf87.png" avtar_c_icon" width="200"></a>
+  <br>
+  discordImgCrawler
+  <br>
+  <br>
+</h1>
+
 # Introduction
+
+
 This is a crawler program written in nodejs. It allows you to download all the images from a discord server channel.  
 Unlike other programs, this program use puppeter to get the url of the image and download it when the client sending a discord request of attachments.  
 Even though it was much safer than selfbot but I still won't be responsible for any problems with using the software (like getting banned due to the discord TOS).  
